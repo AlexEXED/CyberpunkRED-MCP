@@ -1,24 +1,90 @@
-# WorkBuddy project data
+# ============================================
+# 推送黑名单 — CyberpunkRED MCP Server
+# ============================================
+
+# -- WorkBuddy --
 .workbuddy/
 
-# External sample data (large binaries)
+# -- 外部样本数据（大体积二进制） --
 鲨鱼包拓展/
 
-# Python
+# -- Python --
 __pycache__/
-*.pyc
+*.py[cod]
 *.pyo
-*.egg-info/
-dist/
+*.so
 *.egg
+*.egg-info/
+*.egg-info
+dist/
+build/
+develop-eggs/
+eggs/
+parts/
+sdist/
+var/
+*.manifest
+*.spec
+pip-log.txt
+.python-version
 
-# IDE
-.vscode/
-.idea/
+# -- 虚拟环境 --
+venv/
+.venv/
+env/
+.env/
+ENV/
+env.bak/
+venv.bak/
 
-# Build artifacts (published via GitHub Releases)
+# -- 构建产物（通过 GitHub Releases 分发） --
 release/
 
-# OS
+# -- IDE / 编辑器 --
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+\#*\#
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# -- OS 垃圾文件 --
 .DS_Store
+.DS_Store?
+._*
 Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.tmp
+*.bak
+
+# -- 日志 --
+*.log
+
+# -- 测试 --
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+
+# -- Mypy / Type check --
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# -- Jupyter --
+.ipynb_checkpoints/
+*.ipynb
+
+# -- Archives --
+*.7z
+*.rar
