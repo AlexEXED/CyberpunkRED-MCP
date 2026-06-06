@@ -1,0 +1,21 @@
+# WorkBuddy project data
+.workbuddy/
+
+# External sample data (large binaries)
+鲨鱼包拓展/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

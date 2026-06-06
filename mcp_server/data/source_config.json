@@ -1,0 +1,13 @@
+{
+  "sources": {
+    "core": {
+      "enabled": true,
+      "priority": 0
+    },
+    "user": {
+      "enabled": true,
+      "priority": 999,
+      "data_type": "rules"
+    }
+  }
+}

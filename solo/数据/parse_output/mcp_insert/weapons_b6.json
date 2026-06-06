@@ -1,0 +1,345 @@
+{
+  "file_id": "VBWgAlhuTShk",
+  "sheet_id": "t00i2h",
+  "records": [
+    {
+      "field_values": [
+        {
+          "field": "武器名称",
+          "text_value": {
+            "items": [
+              {
+                "text": "电击棍",
+                "type": "text"
+              }
+            ]
+          }
+        },
+        {
+          "field": "武器大类",
+          "option_value": {
+            "items": [
+              {
+                "text": "异种武器"
+              }
+            ]
+          }
+        },
+        {
+          "field": "武器子类",
+          "text_value": {
+            "items": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          }
+        },
+        {
+          "field": "关联技能",
+          "option_value": {
+            "items": [
+              {
+                "text": "近战"
+              }
+            ]
+          }
+        },
+        {
+          "field": "伤害骰数",
+          "number_value": 0
+        },
+        {
+          "field": "伤害面数",
+          "number_value": 0
+        },
+        {
+          "field": "伤害表达式",
+          "text_value": {
+            "items": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          }
+        },
+        {
+          "field": "弹容",
+          "text_value": {
+            "items": [
+              {
+                "text": "-",
+                "type": "text"
+              }
+            ]
+          }
+        },
+        {
+          "field": "ROF",
+          "number_value": 0
+        },
+        {
+          "field": "手数",
+          "number_value": 1
+        },
+        {
+          "field": "可隐藏",
+          "bool_value": false
+        },
+        {
+          "field": "价格_eb",
+          "number_value": 100
+        },
+        {
+          "field": "特殊属性",
+          "text_value": {
+            "items": [
+              {
+                "text": "低致命性中型近战武器",
+                "type": "text"
+              }
+            ]
+          }
+        },
+        {
+          "field": "数据来源",
+          "option_value": {
+            "items": [
+              {
+                "text": "基础武器表"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "field_values": [
+        {
+          "field": "武器名称",
+          "text_value": {
+            "items": [
+              {
+                "text": "电击枪",
+                "type": "text"
+              }
+            ]
+          }
+        },
+        {
+          "field": "武器大类",
+          "option_value": {
+            "items": [
+              {
+                "text": "异种武器"
+              }
+            ]
+          }
+        },
+        {
+          "field": "武器子类",
+          "text_value": {
+            "items": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          }
+        },
+        {
+          "field": "关联技能",
+          "option_value": {
+            "items": [
+              {
+                "text": "手枪"
+              }
+            ]
+          }
+        },
+        {
+          "field": "伤害骰数",
+          "number_value": 0
+        },
+        {
+          "field": "伤害面数",
+          "number_value": 0
+        },
+        {
+          "field": "伤害表达式",
+          "text_value": {
+            "items": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          }
+        },
+        {
+          "field": "弹容",
+          "text_value": {
+            "items": [
+              {
+                "text": "-",
+                "type": "text"
+              }
+            ]
+          }
+        },
+        {
+          "field": "ROF",
+          "number_value": 0
+        },
+        {
+          "field": "手数",
+          "number_value": 1
+        },
+        {
+          "field": "可隐藏",
+          "bool_value": false
+        },
+        {
+          "field": "价格_eb",
+          "number_value": 100
+        },
+        {
+          "field": "特殊属性",
+          "text_value": {
+            "items": [
+              {
+                "text": "低致命性重型手枪",
+                "type": "text"
+              }
+            ]
+          }
+        },
+        {
+          "field": "数据来源",
+          "option_value": {
+            "items": [
+              {
+                "text": "基础武器表"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "field_values": [
+        {
+          "field": "武器名称",
+          "text_value": {
+            "items": [
+              {
+                "text": "浪啸军火螺旋枪",
+                "type": "text"
+              }
+            ]
+          }
+        },
+        {
+          "field": "武器大类",
+          "option_value": {
+            "items": [
+              {
+                "text": "异种武器"
+              }
+            ]
+          }
+        },
+        {
+          "field": "武器子类",
+          "text_value": {
+            "items": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          }
+        },
+        {
+          "field": "关联技能",
+          "option_value": {
+            "items": [
+              {
+                "text": "重型武器"
+              }
+            ]
+          }
+        },
+        {
+          "field": "伤害骰数",
+          "number_value": 0
+        },
+        {
+          "field": "伤害面数",
+          "number_value": 0
+        },
+        {
+          "field": "伤害表达式",
+          "text_value": {
+            "items": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          }
+        },
+        {
+          "field": "弹容",
+          "text_value": {
+            "items": [
+              {
+                "text": "-",
+                "type": "text"
+              }
+            ]
+          }
+        },
+        {
+          "field": "ROF",
+          "number_value": 0
+        },
+        {
+          "field": "手数",
+          "number_value": 1
+        },
+        {
+          "field": "可隐藏",
+          "bool_value": false
+        },
+        {
+          "field": "价格_eb",
+          "number_value": 5000
+        },
+        {
+          "field": "特殊属性",
+          "text_value": {
+            "items": [
+              {
+                "text": "仅自动射击模式的突击步枪，需BODY 11+",
+                "type": "text"
+              }
+            ]
+          }
+        },
+        {
+          "field": "数据来源",
+          "option_value": {
+            "items": [
+              {
+                "text": "基础武器表"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

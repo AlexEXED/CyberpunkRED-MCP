@@ -1,0 +1,289 @@
+[
+  {
+    "id": "verb",
+    "name": "动词",
+    "dice": "1d100",
+    "type": "simple",
+    "count": 100
+  },
+  {
+    "id": "scenery",
+    "name": "光景",
+    "dice": "1d100",
+    "type": "simple",
+    "count": 20
+  },
+  {
+    "id": "table_84f00af2",
+    "name": "声音",
+    "dice": "1d100",
+    "type": "simple",
+    "count": 20
+  },
+  {
+    "id": "smell",
+    "name": "气味",
+    "dice": "1d100",
+    "type": "simple",
+    "count": 20
+  },
+  {
+    "id": "table_443d28fc",
+    "name": "区域",
+    "dice": "1d100",
+    "type": "simple",
+    "count": 25
+  },
+  {
+    "id": "location",
+    "name": "地点类型",
+    "dice": "1d100",
+    "type": "simple",
+    "count": 24
+  },
+  {
+    "id": "table_a17585f2",
+    "name": "胶囊酒店_描述",
+    "dice": "2d6",
+    "type": "simple",
+    "count": 11
+  },
+  {
+    "id": "table_53942ada",
+    "name": "企业公寓_描述",
+    "dice": "2d6",
+    "type": "simple",
+    "count": 11
+  },
+  {
+    "id": "table_baa06ed2",
+    "name": "公寓建筑_描述",
+    "dice": "2d6",
+    "type": "simple",
+    "count": 10
+  },
+  {
+    "id": "table_e0bc1b32",
+    "name": "夜城热门场所_描述",
+    "dice": "2d6",
+    "type": "simple",
+    "count": 10
+  },
+  {
+    "id": "corporation",
+    "name": "企业名录_笔记",
+    "dice": "1d100",
+    "type": "simple",
+    "count": 21
+  },
+  {
+    "id": "gang",
+    "name": "帮派_笔记",
+    "dice": "1d10",
+    "type": "simple",
+    "count": 8
+  },
+  {
+    "id": "gang_2",
+    "name": "帮派_类别",
+    "dice": "1d10",
+    "type": "simple",
+    "count": 4
+  },
+  {
+    "id": "table_8e131ff2",
+    "name": "人物类型",
+    "dice": "1d10",
+    "type": "simple",
+    "count": 10
+  },
+  {
+    "id": "table_5e1e2e3c",
+    "name": "人员类型",
+    "dice": "2d10",
+    "type": "simple",
+    "count": 19
+  },
+  {
+    "id": "table_493f19f6",
+    "name": "关系",
+    "dice": "1d100",
+    "type": "simple",
+    "count": 20
+  },
+  {
+    "id": "table_e2c9d922",
+    "name": "访客",
+    "dice": "1d100",
+    "type": "simple",
+    "count": 20
+  },
+  {
+    "id": "table_60e7298f",
+    "name": "名称",
+    "dice": "1d100",
+    "type": "simple",
+    "count": 98
+  },
+  {
+    "id": "table_52be902a",
+    "name": "操控名",
+    "dice": "1d100",
+    "type": "simple",
+    "count": 50
+  },
+  {
+    "id": "table_01fd45db",
+    "name": "情绪",
+    "dice": "1d100",
+    "type": "simple",
+    "count": 34
+  },
+  {
+    "id": "table_e1e417f9",
+    "name": "职业",
+    "dice": "1d10",
+    "type": "simple",
+    "count": 10
+  },
+  {
+    "id": "table_f32a75ea",
+    "name": "时尚类型",
+    "dice": "1d10",
+    "type": "simple",
+    "count": 10
+  },
+  {
+    "id": "table_0d2af22b",
+    "name": "时尚装置",
+    "dice": "1d10",
+    "type": "simple",
+    "count": 10
+  },
+  {
+    "id": "table_9a14f44d",
+    "name": "黑冰类型",
+    "dice": "1d10",
+    "type": "simple",
+    "count": 10
+  },
+  {
+    "id": "table_085bc851",
+    "name": "火器类型",
+    "dice": "1d10",
+    "type": "simple",
+    "count": 10
+  },
+  {
+    "id": "item",
+    "name": "件物品",
+    "dice": "1d100",
+    "type": "simple",
+    "count": 48
+  },
+  {
+    "id": "mission_type",
+    "name": "任务类型",
+    "dice": "1d100",
+    "type": "simple",
+    "count": 50
+  },
+  {
+    "id": "item_2",
+    "name": "物品",
+    "dice": "1d10",
+    "type": "simple",
+    "count": 10
+  },
+  {
+    "id": "table_9b700563",
+    "name": "引子",
+    "dice": "1d10",
+    "type": "simple",
+    "count": 10
+  },
+  {
+    "id": "table_fc6a23f6",
+    "name": "悬崖时刻",
+    "dice": "1d100",
+    "type": "simple",
+    "count": 15
+  },
+  {
+    "id": "table_b2aba1a9",
+    "name": "开发",
+    "dice": "1d100",
+    "type": "simple",
+    "count": 29
+  },
+  {
+    "id": "table_bcd22f00",
+    "name": "高潮",
+    "dice": "1d10",
+    "type": "simple",
+    "count": 3
+  },
+  {
+    "id": "table_458c458a",
+    "name": "判定",
+    "dice": "1d10",
+    "type": "simple",
+    "count": 9
+  },
+  {
+    "id": "table_1b3f44e4",
+    "name": "剧情转折笔记",
+    "dice": "1d100",
+    "type": "simple",
+    "count": 11
+  },
+  {
+    "id": "event",
+    "name": "事件",
+    "dice": "1d100",
+    "type": "simple",
+    "count": 20
+  },
+  {
+    "id": "item_3",
+    "name": "物品名·奇物",
+    "dice": "1d6",
+    "type": "simple",
+    "count": 3
+  },
+  {
+    "id": "item_4",
+    "name": "物品名·奇物注：依据术语表翻译 Thing",
+    "dice": "1d100",
+    "type": "simple",
+    "count": 4
+  },
+  {
+    "id": "oracle_closed",
+    "name": "封闭式提问概率表",
+    "dice": "1d100",
+    "type": "oracle",
+    "count": 5
+  },
+  {
+    "id": "morale",
+    "name": "士气与战斗意志表",
+    "dice": "1d10",
+    "type": "morale",
+    "count": 5
+  },
+  {
+    "id": "noun",
+    "name": "名词",
+    "dice": "1d100",
+    "type": "simple",
+    "count": 100
+  },
+  {
+    "id": "adjective",
+    "name": "形容词",
+    "dice": "1d100",
+    "type": "simple",
+    "count": 100
+  }
+]
