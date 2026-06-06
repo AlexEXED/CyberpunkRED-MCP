@@ -4,6 +4,8 @@
 
 # -- WorkBuddy --
 .workbuddy/
+HANDOFF.md
+SHARED.path
 
 # -- 外部样本数据（大体积二进制） --
 鲨鱼包拓展/
