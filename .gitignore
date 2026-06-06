@@ -16,6 +16,9 @@ dist/
 .vscode/
 .idea/
 
+# Build artifacts (published via GitHub Releases)
+release/
+
 # OS
 .DS_Store
 Thumbs.db
