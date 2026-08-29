@@ -14,7 +14,7 @@
     "count": 20
   },
   {
-    "id": "table_84f00af2",
+    "id": "table_581126fa",
     "name": "声音",
     "dice": "1d100",
     "type": "simple",
@@ -28,7 +28,7 @@
     "count": 20
   },
   {
-    "id": "table_443d28fc",
+    "id": "table_116ad200",
     "name": "区域",
     "dice": "1d100",
     "type": "simple",
@@ -39,42 +39,42 @@
     "name": "地点类型",
     "dice": "1d100",
     "type": "simple",
-    "count": 24
+    "count": 20
   },
   {
-    "id": "table_a17585f2",
+    "id": "table_5e966e40",
     "name": "胶囊酒店_描述",
     "dice": "2d6",
     "type": "simple",
     "count": 11
   },
   {
-    "id": "table_53942ada",
+    "id": "table_700b1f97",
     "name": "企业公寓_描述",
     "dice": "2d6",
     "type": "simple",
     "count": 11
   },
   {
-    "id": "table_baa06ed2",
+    "id": "table_7a6520b4",
     "name": "公寓建筑_描述",
     "dice": "2d6",
     "type": "simple",
-    "count": 10
+    "count": 11
   },
   {
-    "id": "table_e0bc1b32",
+    "id": "table_dd7f9839",
     "name": "夜城热门场所_描述",
     "dice": "2d6",
     "type": "simple",
-    "count": 10
+    "count": 11
   },
   {
     "id": "corporation",
     "name": "企业名录_笔记",
     "dice": "1d100",
     "type": "simple",
-    "count": 21
+    "count": 100
   },
   {
     "id": "gang",
@@ -91,84 +91,84 @@
     "count": 4
   },
   {
-    "id": "table_8e131ff2",
+    "id": "table_07c58708",
     "name": "人物类型",
     "dice": "1d10",
     "type": "simple",
     "count": 10
   },
   {
-    "id": "table_5e1e2e3c",
+    "id": "table_e41db235",
     "name": "人员类型",
     "dice": "2d10",
     "type": "simple",
     "count": 19
   },
   {
-    "id": "table_493f19f6",
+    "id": "table_2dad43f7",
     "name": "关系",
     "dice": "1d100",
     "type": "simple",
     "count": 20
   },
   {
-    "id": "table_e2c9d922",
+    "id": "table_cfb5916d",
     "name": "访客",
     "dice": "1d100",
     "type": "simple",
     "count": 20
   },
   {
-    "id": "table_60e7298f",
+    "id": "table_78854316",
     "name": "名称",
     "dice": "1d100",
     "type": "simple",
     "count": 98
   },
   {
-    "id": "table_52be902a",
+    "id": "table_91cb678c",
     "name": "操控名",
     "dice": "1d100",
     "type": "simple",
     "count": 50
   },
   {
-    "id": "table_01fd45db",
+    "id": "table_32401ea0",
     "name": "情绪",
     "dice": "1d100",
     "type": "simple",
     "count": 34
   },
   {
-    "id": "table_e1e417f9",
+    "id": "table_51c49709",
     "name": "职业",
     "dice": "1d10",
     "type": "simple",
     "count": 10
   },
   {
-    "id": "table_f32a75ea",
+    "id": "table_3d1094bb",
     "name": "时尚类型",
     "dice": "1d10",
     "type": "simple",
     "count": 10
   },
   {
-    "id": "table_0d2af22b",
+    "id": "table_ba2abd72",
     "name": "时尚装置",
     "dice": "1d10",
     "type": "simple",
     "count": 10
   },
   {
-    "id": "table_9a14f44d",
+    "id": "table_ca94de6e",
     "name": "黑冰类型",
     "dice": "1d10",
     "type": "simple",
     "count": 10
   },
   {
-    "id": "table_085bc851",
+    "id": "table_6096914e",
     "name": "火器类型",
     "dice": "1d10",
     "type": "simple",
@@ -179,7 +179,7 @@
     "name": "件物品",
     "dice": "1d100",
     "type": "simple",
-    "count": 48
+    "count": 100
   },
   {
     "id": "mission_type",
@@ -196,46 +196,46 @@
     "count": 10
   },
   {
-    "id": "table_9b700563",
+    "id": "table_4a536885",
     "name": "引子",
     "dice": "1d10",
     "type": "simple",
     "count": 10
   },
   {
-    "id": "table_fc6a23f6",
+    "id": "table_d16425a3",
     "name": "悬崖时刻",
     "dice": "1d100",
     "type": "simple",
     "count": 15
   },
   {
-    "id": "table_b2aba1a9",
+    "id": "table_6283989b",
     "name": "开发",
     "dice": "1d100",
     "type": "simple",
     "count": 29
   },
   {
-    "id": "table_bcd22f00",
+    "id": "table_6e96871c",
     "name": "高潮",
     "dice": "1d10",
     "type": "simple",
     "count": 3
   },
   {
-    "id": "table_458c458a",
+    "id": "table_15b183a6",
     "name": "判定",
     "dice": "1d10",
     "type": "simple",
     "count": 9
   },
   {
-    "id": "table_1b3f44e4",
+    "id": "table_d3228a3e",
     "name": "剧情转折笔记",
     "dice": "1d100",
     "type": "simple",
-    "count": 11
+    "count": 50
   },
   {
     "id": "event",
@@ -259,20 +259,6 @@
     "count": 4
   },
   {
-    "id": "oracle_closed",
-    "name": "封闭式提问概率表",
-    "dice": "1d100",
-    "type": "oracle",
-    "count": 5
-  },
-  {
-    "id": "morale",
-    "name": "士气与战斗意志表",
-    "dice": "1d10",
-    "type": "morale",
-    "count": 5
-  },
-  {
     "id": "noun",
     "name": "名词",
     "dice": "1d100",
@@ -285,5 +271,117 @@
     "dice": "1d100",
     "type": "simple",
     "count": 100
+  },
+  {
+    "id": "table_2678d6cb",
+    "name": "区域类别",
+    "dice": "1d10",
+    "type": "simple",
+    "count": 4
+  },
+  {
+    "id": "table_c14217de",
+    "name": "货运集装箱社区_描述",
+    "dice": "2d6",
+    "type": "simple",
+    "count": 11
+  },
+  {
+    "id": "table_d276c39b",
+    "name": "夜城酒吧_描述",
+    "dice": "2d6",
+    "type": "simple",
+    "count": 11
+  },
+  {
+    "id": "table_4e8530fc",
+    "name": "派系类型",
+    "dice": "1d10",
+    "type": "simple",
+    "count": 5
+  },
+  {
+    "id": "table_04ccdca8",
+    "name": "犯罪组织",
+    "dice": "1d10",
+    "type": "simple",
+    "count": 6
+  },
+  {
+    "id": "table_878c6150",
+    "name": "执法机构",
+    "dice": "2d10",
+    "type": "simple",
+    "count": 19
+  },
+  {
+    "id": "table_56569ad2",
+    "name": "游民团体",
+    "dice": "1d10",
+    "type": "simple",
+    "count": 8
+  },
+  {
+    "id": "location_2",
+    "name": "企业区地点类型",
+    "dice": "1d100",
+    "type": "simple",
+    "count": 20
+  },
+  {
+    "id": "location_3",
+    "name": "街头地点类型",
+    "dice": "1d100",
+    "type": "simple",
+    "count": 34
+  },
+  {
+    "id": "location_4",
+    "name": "郊区地点类型",
+    "dice": "1d100",
+    "type": "simple",
+    "count": 20
+  },
+  {
+    "id": "item_5",
+    "name": "边缘行者尸体物品",
+    "dice": "1d100",
+    "type": "simple",
+    "count": 100
+  },
+  {
+    "id": "item_6",
+    "name": "企业员工尸体物品",
+    "dice": "1d100",
+    "type": "simple",
+    "count": 100
+  },
+  {
+    "id": "table_982f0b49",
+    "name": "狗粮风味",
+    "dice": "1d100",
+    "type": "simple",
+    "count": 20
+  },
+  {
+    "id": "table_d772ccea",
+    "name": "氚麦菲士口味",
+    "dice": "1d10",
+    "type": "simple",
+    "count": 10
+  },
+  {
+    "id": "oracle_closed",
+    "name": "封闭式提问概率表",
+    "dice": "1d100",
+    "type": "oracle",
+    "count": 5
+  },
+  {
+    "id": "morale",
+    "name": "士气与战斗意志表",
+    "dice": "1d10",
+    "type": "morale",
+    "count": 5
   }
 ]
